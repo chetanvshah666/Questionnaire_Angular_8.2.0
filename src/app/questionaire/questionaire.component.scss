@@ -1,0 +1,24 @@
+#outer {
+    width: 100%;
+    text-align: center;
+}
+
+.inner {
+    display: inline-block;
+}
+
+.incorrectCss {
+    color: #FF5A5A;
+}
+
+.correctCss {
+    color: green;
+}
+
+.incorrectDropDownCss {
+    border-color: #FF5A5A;
+}
+
+.correctDropDownCss {
+    border-color: green;
+}
